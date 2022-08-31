@@ -2196,9 +2196,9 @@ embed {
   max-width: 150px;
   padding: 5px;
 }
-.brand {
+/* .brand {
   background: var(--btn-default-bg);
-}
+} */
 @media (max-width: 767px) {
   .site-nav {
     border-bottom: 1px solid #ddd;
